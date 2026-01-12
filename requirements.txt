@@ -1,0 +1,21 @@
+# Librerías necesarias para el proyecto Cursor con Python
+
+# Análisis de datos y visualización
+pandas>=1.5.0
+matplotlib>=3.6.0
+numpy>=1.23.0
+
+# Desarrollo web
+flask>=2.2.0
+
+# Procesamiento de documentos
+PyPDF2>=3.0.0
+
+# Nota: Las siguientes librerías están incluidas en Python estándar
+# y no necesitan instalación:
+# - pathlib
+# - json
+# - os
+# - re
+# - collections
+# - tkinter
