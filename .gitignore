@@ -1,0 +1,38 @@
+# Archivos de prueba y temporales
+proyecto_automatizacion/archivos_prueba/
+**/archivos_prueba/
+
+# Archivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.csv
+*.xlsx
+*.xls
+
+# Excepciones: mantener algunos CSVs de ejemplo si son necesarios
+!ejercicios_practicos/datos_*.csv
